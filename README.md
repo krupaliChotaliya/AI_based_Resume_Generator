@@ -34,7 +34,7 @@ This is a **web application** that allows users to generate professional resumes
 1. Clone the repository:
 
    ```bash
-   git clone <your-repo-link>
+   git clone https://github.com/krupaliChotaliya/AI_based_Resume_Generator.git
    cd ai-powered-resume-builder
    ```
 2. Configure **Ollama DeepSeek R1** on your local or remote environment.
